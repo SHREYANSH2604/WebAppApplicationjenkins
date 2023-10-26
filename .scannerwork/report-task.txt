@@ -1,0 +1,6 @@
+projectKey=webapp
+serverUrl=http://localhost:9099
+serverVersion=8.9.10.61524
+dashboardUrl=http://localhost:9099/dashboard?id=webapp
+ceTaskId=AYppxkKIyDWBpexKFem2
+ceTaskUrl=http://localhost:9099/api/ce/task?id=AYppxkKIyDWBpexKFem2
